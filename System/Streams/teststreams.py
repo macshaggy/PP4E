@@ -11,7 +11,7 @@ def interact():
             # input given as a string
             num = int(reply)
             print(f"{num} squared is {num**2}")
-            print('bye')
+    print('bye')
 
 if __name__ == '__main__':
     interact() # when run, not imported
